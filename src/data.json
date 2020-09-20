@@ -1,0 +1,49 @@
+{
+    
+    "title": "Hello I'm Seyed" ,
+    "subtittle": "Full Stack Dev ",
+    "links":
+    {
+        "github":"https://github.com/seyedjamalazari",
+        "email":"https://mail.google.com/mail/u/0/?tab=km#inbox"
+
+    },
+    "sections":[
+     {
+         "title" : "About",
+        "items":[{
+            "type":"p",
+            "content":"gvdfcvffgggggggggggggggggggggggvgl;b,gfmvld.mfc.,mvgl.,bm g,mv;sf,c;wel.,d.,c;sdlvbg vbv"
+        }
+        ]
+    },
+    {
+        "title" : "skills",
+       "items": [ {
+           "type":"card",
+           "content":{
+           "image": "/url",
+           "title": "react"
+       }
+    },
+       {"type":"card",
+       "content":{
+       "image": "/url",
+       "title": "javascript"
+        } },
+       {"type":"card",
+    "content":{
+    "image": "/url",
+    "title": "html"
+       }},
+{"type":"card",
+    "content":{
+    "image": "/url",
+    "title": "css"
+}}
+       ]
+   }
+
+    ]
+    
+}
